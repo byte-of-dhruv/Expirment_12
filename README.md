@@ -1,4 +1,6 @@
 Aim: Categorial Data Analysis using Python
+
+
 Theory:
 Categorical Data Analysis involves the study of variables that represent discrete groups or labels rather than numerical measurements. Categorical data analysis is a branch of statistics used to analyze data that can be divided into distinct groups. In Python, the pandas library is the primary tool for this. These variables are typically classified into two types: Nominal and Ordinal.
 
@@ -23,6 +25,8 @@ groupby(): Splits the data into groups based on a specific criteria for further 
 df[df['col'] == 'val'] (Filtering): Extracts specific rows from the DataFrame that meet a defined condition.
 
 sort_values(): Reorganizes the rows of the DataFrame based on the alphabetical or logical order of a specific column.
+
+
 
 Conclusion:
 The experiment successfully demonstrated how to process and interpret categorical datasets using the Pandas library.
